@@ -1,0 +1,77 @@
+h1{
+  margin: 0 auto;
+  margin-top: 80px;
+  width: 800px;
+  height: 50px;
+  font-size: 1.8em;
+  text-align: center;
+  line-height: 60px;
+}
+
+.Street_address{
+  width:800px;
+  height:350px;
+  background-color: #fff;
+  margin: 0 auto;
+  margin-top: 20px;
+  text-align: center;
+
+  }
+
+.addres{
+  width: 800px;
+  height: 150px;
+
+}
+
+.add{
+  width: ;
+}
+
+.button_01{
+  width: 800px;
+  height: 100px;
+
+}
+
+.button_02{
+  width: 400px;
+  height: 100px;
+  float: left;
+  text-align: center;
+}
+
+.button_03{
+  width: 200px;
+  height: 50px;
+  border-top: solid 1px ;
+  border-bottom: solid 1px;
+}
+
+.button_04{
+  text-align: center;
+  width: 400px;
+  height: 100px;
+  float: left;
+}
+
+.navigation{
+  margin-top: 35px;
+  margin-left: 50px;
+  width: 200px;
+  height: 160px;
+  background-color: rgba(112,128,144,0.5);
+  float: left;
+}
+
+input[type="submit"]{
+  margin-top: 15px;
+  width: 100px;
+  height: auto;
+  padding: 20px;
+}
+
+input[type="text"]{
+  border: none;
+  margin-top: 20px;
+}

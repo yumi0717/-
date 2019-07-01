@@ -1,0 +1,143 @@
+body{
+    background-color: #fadbe0;
+}
+
+header{
+    width: 100%;
+    height: 30px;
+    position: fixed;
+    top: 0;
+    z-index: 10;
+    background-color: #554562;
+}
+    .login, .cart, .new{
+        width: 80px;
+        height: 30px;
+        color: white;
+        line-height: 30px;
+        float: right;
+    }
+
+nav{
+    width: 100%;
+    height: 50px;
+    position: fixed;
+    top: 30px;
+    z-index: 10;
+    background-color: rgba(0,0,0,0.7);
+}
+        .SWL{
+            font-size: 3em;
+            letter-spacing: 5px;
+            color: white;
+            float: left;
+            padding-left: 10px;
+            line-height: 50px;
+            font-weight: bold;
+        }
+        .nav_menu{
+            width: 150px;
+            height: 50px;
+            color: white;
+            font-size: 15px;
+            text-align: center;
+            line-height: 50px;
+            float: right;
+        }
+
+
+article{
+    width: 100%;
+    margin: 80px auto;
+}
+    .slide{
+        width: 1000px;
+        height: 600px;
+        margin: auto;
+    }
+        .slide img{
+            padding-top: 70px;
+            width: 1000px;
+            height: auto;
+        }
+    .search_box{
+        width: 600px;
+        height: auto;
+        margin: 10px auto;
+    }
+        .search{
+            width: 580px;
+            height: 30px;
+            margin: 0 auto;
+            padding: 10px;
+            font-size: 15px;
+            border-radius: 10px;
+            border: solid 1px #aaa;
+        }
+    .contents_box{
+        width: 900px;
+        height: 300px;
+        margin: 0 auto;
+    }
+        .contents_item{
+            width: 250px;
+            height: 250px;
+            float: left;
+            line-height: 250px;
+            text-align: center;
+            margin: 25px;
+            border-radius: 50px; 
+            background-color:  #eaadbd;
+        }
+    .chat{
+        width: 300px;
+        height: 400px;
+        text-align: center;
+        line-height: 400px;
+        color: white;
+        position: fixed;
+        bottom: 30px;
+        left: 30px;
+        z-index: 9;
+        border-radius: 10px;
+        background-color: rgba(85, 69, 96, 0.7);
+    }
+    .icon{
+        width: 90px;
+        height: 90px;
+        float: right;
+        text-align: center;
+        line-height: 90px;
+        font-size: 4em;
+        border-radius: 50%;
+        position: fixed;
+        right: 30px;
+        bottom: 30px;
+        z-index: 10;
+        background-color: rgba(0,0,0,0.7);
+    }
+
+
+footer{
+    width: 100%;
+    height: 20px;
+    text-align: center;
+    font-size: 12px;
+    color: white;
+    line-height: 20px; 
+    position: fixed;
+    bottom: 0;
+    clear: both;
+    background-color: #554562;
+}
+
+.nav_menu,.login,.cart,.new,.SWL{
+    border: none;
+    cursor: pointer;
+    outline: none;
+    background-color: transparent;
+}
+
+li{
+    list-style: none;
+}

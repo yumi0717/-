@@ -1,0 +1,62 @@
+.description{
+    width: 630px;
+    margin: 0 auto;
+}
+
+.description1{
+    height: 250px;
+    position: relative;
+    margin: 0 auto;
+    background-color: red;
+}
+
+.des_img1{
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 10px;
+}
+
+.des_title1{
+    position: absolute;
+    top: 0;
+    left: 350px;
+    font-size: 1.5em;
+    padding: 10px;
+}
+
+.des_text1{
+    position: absolute;
+    top:50px;
+    left: 350px;
+    padding: 10px;
+}
+
+.description2{
+    padding-bottom: 20px;
+    background-color: blue;
+}
+
+.des_img2{
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.des_title2{
+    padding: 10px;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.des_text2{
+    padding: 10px;
+}
+
+.description3{
+    background-color: yellow;
+}
+
+.des_text3{
+    text-align: center;
+    padding: 10px;
+}

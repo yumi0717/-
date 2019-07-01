@@ -1,0 +1,22 @@
+.orderitem_title{
+    margin: 0 auto;
+    font-size: 2em;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+table{
+  width: 700px;
+}
+
+td,th{
+    padding: 10px;
+    border: 1px solid #000;
+    text-align:center;
+    height: 10px;
+}
+
+.product_name{
+  width: 70%
+}
+

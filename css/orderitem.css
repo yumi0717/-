@@ -9,6 +9,10 @@ table{
   width: 700px;
 }
 
+span{
+    margin-left: 30px;
+}
+
 td,th{
     padding: 10px;
     border: 1px solid #000;
@@ -20,3 +24,7 @@ td,th{
   width: 70%
 }
 
+form div{
+    width: 50px;
+    margin: 10px auto;
+}
